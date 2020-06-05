@@ -1,3 +1,5 @@
+# Btk Akademi Hilesi
+
 Bu script sayesinde istediğiniz sertifikayı otomatik olarak alabilirsiniz.
 
 Kullanma Talimatları:
